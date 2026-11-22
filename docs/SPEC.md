@@ -51,6 +51,13 @@ Prices are starting points; test before committing.
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- A skipped item waves goodbye ('bye!') and the saved-money jar fills
+
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,

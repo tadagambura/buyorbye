@@ -57,6 +57,13 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Monthly recap of what was worth it |
 | Cadence | Weekly + whenever shopping |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- A skipped item waves goodbye ('bye!') and the saved-money jar fills
+
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
