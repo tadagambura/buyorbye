@@ -59,11 +59,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Monthly recap of what was worth it |
 | Cadence | Weekly + whenever shopping |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- A skipped item waves goodbye ('bye!') and the saved-money jar fills
+- Item skipped: it waves 'bye!' and walks off screen as the savings jar fills
+- Cool-off check: the item gives you puppy-dog eyes ('still want me?')
+- Cost-per-use drops: the price tag deflates like a balloon
+- Unit-price win: two packs face off in a boxing ring and the cheaper one wins
+- Impulse resisted milestone: the stickman flexes in front of the shop window
 
 
 ## AI
