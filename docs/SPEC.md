@@ -1,6 +1,6 @@
 # BuyOrBye: Spec
 
-**Buy less, buy better** · #15 of 32 · Wave 2: Recurring keepers · Used: Weekly · Very easy · Revenue potential: Medium · Money & Work · Source: ChatGPT (reworked; was WorthIt)
+**Buy less, buy better** · #15 of 31 · Wave 2: Recurring keepers · Used: Weekly · Very easy · Revenue potential: Medium · Money & Work · Source: ChatGPT (reworked; was WorthIt)
 
 ## One-liner
 
