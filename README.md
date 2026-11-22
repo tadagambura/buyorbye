@@ -2,7 +2,7 @@
 
 **Buy less, buy better**
 
-> #3 of 33 in the build order · Very easy · Revenue potential: Medium · Money & Work
+> #13 of 33 · Wave 2: Recurring keepers · Used: Weekly · Very easy · Revenue potential: Medium · Money & Work
 
 ## What it is
 
@@ -56,6 +56,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Savings and comparison cards |
 | Next step | Monthly recap of what was worth it |
 | Cadence | Weekly + whenever shopping |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
