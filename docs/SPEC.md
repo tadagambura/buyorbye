@@ -1,6 +1,6 @@
 # BuyOrBye: Spec
 
-**Buy less, buy better** · #3 of 33 in the build order · Very easy · Revenue potential: Medium · Money & Work · Source: ChatGPT (reworked; was WorthIt)
+**Buy less, buy better** · #13 of 33 · Wave 2: Recurring keepers · Used: Weekly · Very easy · Revenue potential: Medium · Money & Work · Source: ChatGPT (reworked; was WorthIt)
 
 ## One-liner
 
@@ -50,6 +50,11 @@ Prices are starting points; test before committing.
 
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
 
 ## Platform & data
 
